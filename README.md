@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Go To-U provides an operating system for electric vehicle (EV) charging management, delivering tools for Charge Point Operators to optimize station utilization, increase profitability, and offer seamless charging experiences. The platform supports advanced reservation technology, AI‑driven optimization, and multi‑country deployment, serving over one million chargers across 67 countries. It offers business solutions for EV drivers, fleet operators, and partners, with a focus on reliability, scalability, and innovative features for the EV ecosystem.
+Go To-U provides an operating system for electric vehicle (EV) charging management, offering tools for Charge Point Operators to optimize station utilization, increase profitability, and deliver seamless charging experiences. The platform supports over 1,000,000 EV chargers across 67 countries, leveraging advanced reservation technology, AI, and a business suite of marketing, analytics, and payment solutions. Go To-U aims to accelerate transport decarbonization by enabling efficient, sustainable EV charging infrastructure worldwide.
 
-**Areas:** Company · EV · Charging · Platform · SaaS · CPO
+**Areas:** Company · EV · Charging · Mobility · Sustainability · Platform
 
 ## Go To-U on APIs.io
 
@@ -76,33 +76,44 @@ Everything profiled for Go To-U is published on APIs.io rather than in this repo
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Security (1)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
+- [Go Tou Com Authentication](https://apis.io/security/go-tou-com/go-tou-com-authentication/)
 - [Go Tou Com Domain Security](https://apis.io/security/go-tou-com/go-tou-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Go Tou Com Scopes](https://apis.io/scopes/go-tou-com/go-tou-com-scopes/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://go-tou.com/)
+- [Website](https://goto-u.com/)
+- [Getting started](https://goto-u.com:443/en/partnership)
+- [Support](https://goto-u.com:443/en/contact)
+- [Blog](https://goto-u.com:443/en/news)
+- [Terms of service](https://goto-u.com:443/en/public-agreement)
 - [Privacy policy](https://goto-u.com:443/en/privacy-policy)
 
 ## API Evangelist rating
 
-**Kin Score 9.0** — minimal · rubric 0.24.0 · scored 2026-10-29
+**Kin Score 14.5** — emerging · rubric 0.25.0 · scored 2026-10-29
 
 | Facet | Score |
 |---|---|
-| Discoverability | 50.0 |
+| Discoverability | 51.8 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
+| Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 10.5 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 21.1 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -117,7 +128,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -125,8 +136,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
 
-**Regulatory alignment 14.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/go-tou-com/](https://apis.io/providers/go-tou-com/).
 
